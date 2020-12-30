@@ -1,2 +1,2 @@
-# phpcomposer_modules module for MyPHPFw
+# composer_modules module for MyPHPFw
 
