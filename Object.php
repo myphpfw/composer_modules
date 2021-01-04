@@ -2,7 +2,7 @@
     declare(strict_types=1);
     class composer_modules {
         private const modules = [
-            "twig" => __DIR__."/../../vendor/autoload.php",
+            "twig" => __DIR__."/twig/vendor/autoload.php",
         ];
 
         private static function load_module(string $module):void {
